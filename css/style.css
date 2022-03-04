@@ -1,0 +1,9 @@
+
+@media screen and (max-width: 370px) {
+#city-name {
+font-size: 12px;
+}
+#city-button{
+font-size: 12px;
+}
+}
